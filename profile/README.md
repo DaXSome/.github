@@ -2,4 +2,4 @@
 > Data X Awesome
 ## What we do?
 
-Transform data into beautifully simple insights.
+Transform data into beautiful simple insights.
