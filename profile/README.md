@@ -1,5 +1,8 @@
-# Welcome to the DaXSome! 👋
-> Data X Awesome
-## What we do?
+# Welcome to DaXSome!
 
-Transform data into beautiful simple insights.
+## About Us  
+At DaXSome, we are committed to providing accessible, localized
+              data for academia, government, and industry to drive insights and
+              impactful decisions. Our goal is to empower Ghana's
+              data-driven future through high-quality, comprehensive datasets
+              and innovative open source projects.
